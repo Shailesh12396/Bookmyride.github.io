@@ -1,0 +1,173 @@
+body{
+background-color: aqua;
+height: 3000px;
+}
+
+.container2{
+display: flex;
+height: 70px;
+background-color: white;
+margin-top: 20px;
+white-space: normal;
+border: none;
+font-size: 20px;
+
+}
+
+
+
+
+.hello2{
+height: 50px;
+margin-left: 80px;
+margin-top: 5px;
+
+}
+
+ h1:hover{  
+background-color: black;  
+}
+
+
+.zeb2{
+background-color: white;
+color: aqua;
+font-size: 25px;
+border: none;
+white-space: normal;
+display: block;
+outline: 0;
+margin-top: 0px;
+align-items: center;
+padding-left: 18px;
+padding-right: 18px;
+float: left;
+width: auto;
+padding: 25px; 
+}
+
+
+
+
+
+h2{
+font-size: 40px;
+margin-left: 100px;
+}
+
+
+.sup{
+width: 100%;
+height: 580px;
+
+}
+
+
+
+
+.lol{
+display: flex;
+height: 450px;
+margin-left: 100px;
+margin-right: 600px;
+background-color: white;
+margin-top: 70px;
+width: 400px;
+border-radius: 10px; 
+}
+
+.ab{
+height: 180px;
+width: 400px;
+border-radius: 10px;
+}
+
+.bike{
+display: flex;
+height: 260px;
+margin-top: -265px;
+margin-left: 110px;
+background-color: red;
+width: 380px;
+}
+
+
+
+
+
+.jk{
+font-size: 27px;
+margin-top: 0px;
+}
+
+
+
+
+.lol2{
+display: flex;
+height: 450px;
+margin-left: 550px;
+margin-right: 600px;
+background-color: white;
+margin-top: -445px;
+width: 400px;
+border-radius: 10px; 
+}
+
+.bc{
+height: 180px;
+width: 400px;
+border-radius: 10px;
+}
+
+
+
+.taxi{
+display: flex;
+height: 260px;
+margin-top: -265px;
+margin-left: 560px;
+background-color: red;
+width: 380px;
+}
+
+
+
+
+.lol3{
+display: flex;
+height: 450px;
+margin-left: 1000px;
+margin-right: 600px;
+background-color: white;
+margin-top: -445px;
+width: 400px;
+border-radius: 10px; 
+}
+
+
+
+.cd{
+height: 180px;
+width: 400px;
+border-radius: 10px;
+}
+
+.travel{
+display: flex;
+height: 260px;
+margin-top: -265px;
+margin-left: 1010px;
+background-color: red;
+width: 380px;
+}
+.k{
+font-size: 25px;
+margin-top: 0px;
+}
+
+
+
+
+
+

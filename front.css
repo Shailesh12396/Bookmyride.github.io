@@ -1,0 +1,486 @@
+body{
+background-color: aqua;
+height: 4000px;
+}
+
+.container{
+display: flex;
+height: 70px;
+background-color: white;
+margin-top: 20px;
+white-space: normal;
+border: none;
+font-size: 20px;
+
+}
+
+
+
+.hello{
+height: 50px;
+margin-left: 80px;
+margin-top: 5px;
+}
+
+ h1:hover{  
+background-color: black;  
+}
+
+
+
+.zeb{
+background-color: white;
+color: aqua;
+font-size: 25px;
+border: none;
+white-space: normal;
+display: block;
+outline: 0;
+margin-top: 0px;
+align-items: center;
+padding-left: 18px;
+padding-right: 18px;
+float: left;
+width: auto;
+padding: 25px;
+
+
+}
+
+
+
+.pic{
+width: 100%;
+height: 550px;
+margin-top: 0px;
+}
+
+
+.jump{
+font-size: 50px;
+margin-left: 100px;
+margin-top: 40px;
+}
+
+
+
+.lol{
+display: flex;
+height: 450px;
+margin-left: 100px;
+margin-right: 600px;
+background-color: white;
+margin-top: 70px;
+width: 400px;
+border-radius: 10px; 
+}
+
+
+.ab{
+height: 180px;
+width: 400px;
+border-radius: 10px;
+}
+
+.bike{
+display: flex;
+height: 260px;
+margin-top: -265px;
+margin-left: 110px;
+background-color: white;
+width: 380px;
+}
+
+.jk{
+font-size: 27px;
+margin-top: 0px;
+}
+
+.lm{
+font-size: 20px;
+margin-left: -60px;
+}
+
+
+
+.lol2{
+display: flex;
+height: 450px;
+margin-left: 550px;
+margin-right: 600px;
+background-color: white;
+margin-top: -445px;
+width: 400px;
+border-radius: 10px; 
+}
+
+.bc{
+height: 180px;
+width: 400px;
+border-radius: 10px;
+}
+
+
+
+.taxi{
+display: flex;
+height: 260px;
+margin-top: -265px;
+margin-left: 560px;
+background-color: white;
+width: 380px;
+}
+
+
+.mn{
+font-size: 20px;
+margin-left: -60px;
+}
+
+
+.lol3{
+display: flex;
+height: 450px;
+margin-left: 1000px;
+margin-right: 600px;
+background-color: white;
+margin-top: -445px;
+width: 400px;
+border-radius: 10px; 
+}
+
+
+
+.cd{
+height: 180px;
+width: 400px;
+border-radius: 10px;
+}
+
+.travel{
+display: flex;
+height: 260px;
+margin-top: -265px;
+margin-left: 1010px;
+background-color: white;
+width: 380px;
+}
+.k{
+font-size: 25px;
+margin-top: 0px;
+}
+
+.n{
+font-size: 20px;
+margin-left: -170px;
+}
+
+
+.lol4{
+
+height: 130px;
+width: 100%;
+background-color: white;
+margin-top: 40px;
+ display: flex;
+white-space: normal;
+border: none;
+
+}
+
+
+.jac{
+font-size: 50px;
+margin-top: 40px;
+margin-left: 100px;
+}
+
+ 
+.brand1{
+height: 135px;
+margin-left: 100px;
+width: 180px;
+background-color: white;
+margin-top: 20px;
+border-radius: 10px;
+
+}
+
+.dot{
+height: 110px;
+width: 150px;
+margin-left: 15px;
+margin-top: 10px;
+}
+
+
+
+
+.brand2{
+height: 135px;
+margin-left: 320px;
+width: 180px;
+background-color: white;
+margin-top: -160px;
+border-radius: 10px;
+}
+
+.dot1{
+height: 110px;
+width: 150px;
+margin-left: 20px;
+margin-top: 10px;
+}
+
+.brand3{
+height: 135px;
+margin-left: 540px;
+width: 180px;
+background-color: white;
+margin-top: -160px;
+border-radius: 10px;
+}
+
+.dot2{
+height: 110px;
+width: 150px;
+margin-left: 15px;
+margin-top: 10px;
+}
+
+.brand4{
+height: 135px;
+margin-left: 760px;
+width: 180px;
+background-color: white;
+margin-top: -160px;
+border-radius: 10px;
+}
+
+.dot3{
+height: 110px;
+width: 150px;
+margin-left: 15px;
+margin-top: 10px;
+}
+
+.brand5{
+height: 135px;
+margin-left: 980px;
+width: 180px;
+background-color: white;
+margin-top: -160px;
+border-radius: 10px;
+}
+
+.dot4{
+height: 110px;
+width: 150px;
+margin-left: 15px;
+margin-top: 10px;
+}
+
+.brand6{
+height: 135px;
+margin-left: 1200px;
+
+width: 180px;
+background-color: white;
+margin-top: -160px;
+border-radius: 10px;
+}
+
+.dot5{
+height: 110px;
+width: 150px;
+margin-left: 20px;
+margin-top: 10px;
+}
+
+
+
+.brand7{
+height: 135px;
+margin-left: 100px;
+width: 180px;
+background-color: white;
+margin-top: 20px;
+border-radius: 10px;
+}
+
+.dot6{
+height: 110px;
+width: 150px;
+margin-left: 15px;
+margin-top: 10px;
+}
+
+.brand8{
+height: 135px;
+margin-left: 320px;
+width: 180px;
+background-color: white;
+margin-top: -160px;
+border-radius: 10px;
+}
+
+.dot7{
+height: 110px;
+width: 150px;
+margin-left: 15px;
+margin-top: 10px;
+}
+
+.brand9{
+height: 135px;
+margin-left: 540px;
+width: 180px;
+background-color: white;
+margin-top: -160px;
+border-radius: 10px;
+}
+
+.dot8{
+height: 110px;
+width: 150px;
+margin-left: 15px;
+margin-top: 10px;
+}
+
+.brand10{
+height: 135px;
+margin-left: 760px;
+width: 180px;
+background-color: white;
+margin-top: -160px;
+border-radius: 10px;
+}
+
+.dot9{
+height: 110px;
+width: 150px;
+margin-left: 15px;
+margin-top: 10px;
+}
+
+.brand11{
+height: 135px;
+margin-left: 980px;
+width: 180px;
+background-color: white;
+margin-top: -160px;
+border-radius: 10px;
+}
+
+.dot10{
+height: 110px;
+width: 150px;
+margin-left: 15px;
+margin-top: 10px;
+}
+
+.brand12{
+height: 135px;
+margin-left: 1200px;
+width: 180px;
+background-color: white;
+margin-top: -160px;
+border-radius: 10px;
+}
+
+.dot11{
+height: 110px;
+width: 150px;
+margin-left: 15px;
+margin-top: 10px;
+}
+
+ h6:hover{  
+background-color: orange;
+height: 135px;
+
+
+}
+
+
+.jack{
+font-size: 50px;
+margin-top: 40px;
+margin-left: 100px;
+}
+
+
+.a{
+
+height: 130px;
+padding-left: 15px;
+padding-right: 5px;
+margin-top: -70px; 
+float: left;
+width: auto;
+border: none;
+white-space: normal;
+display: block;
+outline: 0;
+
+align-items: center;
+padding: 60px;
+}
+
+h2{
+margin-top: 10px;
+height: 130px;
+}
+
+ h2:hover{  
+background-color: orange;
+height: 110px;
+
+
+}
+
+
+
+.heal{
+height: 450px;
+background-color: white;
+margin-top: 40px;
+margin-left: 100px;
+margin-right: 100px;
+}
+
+.why{
+font-size: 30px;
+margin-top: 40px;
+margin-left: 100px;
+}
+
+.no{
+font-size: 20px;
+margin-left: 30px;
+margin-right: 100px;
+}
+
+.why2{
+height: 120px;
+background-color: white;
+margin-top: 40px;
+margin-left: 180px;
+width: 340px;
+}
+
+.why3{
+height: 120px;
+background-color: white;
+margin-top: -120px;
+margin-left: 560px;
+width: 340px;
+}
+
+.why4{
+height: 120px;
+background-color: white;
+margin-top: -120px;
+margin-left: 940px;
+width: 340px;
+}

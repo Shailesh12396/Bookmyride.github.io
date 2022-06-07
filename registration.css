@@ -1,0 +1,18 @@
+body{
+background-color: rgb(94, 151, 237);
+}
+.enter{
+background-color: rgb(155, 198, 244);
+border-radius: 50px;
+height: 350px;
+margin:70px auto;
+width:40%;
+padding: 34px;
+}
+fieldset{
+margin-top:0px;
+margin-left:auto;
+margin-right:auto;
+width:550px;
+height:320px;
+}
