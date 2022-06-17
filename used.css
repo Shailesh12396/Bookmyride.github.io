@@ -76,6 +76,33 @@ width: 400px;
 border-radius: 10px; 
 }
 
+.help{
+font-size: 30px;
+margin-top: 80px;
+margin-left: -170px;
+}
+
+.help2{
+font-size: 30px;
+margin-top: 80px;
+margin-left: -100px;
+}
+
+
+.help3{
+font-size: 30px;
+margin-top: 80px;
+margin-left: -55px;
+}
+
+
+.help4{
+font-size: 30px;
+margin-top: 80px;
+margin-left: -110px;
+}
+
+
 .ab{
 height: 180px;
 width: 400px;
@@ -101,44 +128,86 @@ margin-top: 10px;
 }
 
 
+.job{
+font-size: 27px;
+margin-top: 10px;
+}
+
+
+
+.tharmax{
+font-size: 18px;
+margin-left: -175px;
+margin-top: 60px;
+}
+
+
+
+
+.tharmax2{
+font-size: 18px;
+margin-left: -80px;
+margin-top: 60px;
+}
+
+.tharmax3{
+font-size: 18px;
+margin-left: -80px;
+margin-top: 60px;
+}
+
+.tharmax4{
+font-size: 18px;
+margin-left: -80px;
+margin-top: 60px;
+}
+
+
+
 .thar{
-font-size: 20px;
+font-size: 18px;
 margin-left: -120px;
 margin-top: 60px;
 }
 
+.now{
+height: 30px;
+margin-top: 7px;
+width: 80px;
+}
+
 .thar2{
-font-size: 20px;
+font-size: 18px;
 margin-left: -220px;
 margin-top: 60px;
 }
 
 .thar3{
-font-size: 20px;
+font-size: 18px;
 margin-left: -160px;
 margin-top: 60px;
 }
 
 .thar4{
-font-size: 20px;
+font-size: 18px;
 margin-left: -160px;
 margin-top: 60px;
 }
 
 .thar5{
-font-size: 20px;
+font-size: 18px;
 margin-left: -200px;
 margin-top: 60px;
 }
 .thar6{
-font-size: 20px;
+font-size: 18px;
 margin-left: -160px;
 margin-top: 60px;
 }
 
 
 .thar7{
-font-size: 20px;
+font-size: 18px;
 margin-left: -140px;
 margin-top: 60px;
 }
@@ -174,6 +243,7 @@ width: 380px;
 
 
 
+
 .lol3{
 display: flex;
 height: 450px;
@@ -205,6 +275,13 @@ width: 380px;
 font-size: 25px;
 margin-top: 10px;
 }
+
+
+
+
+
+
+
 
 
 
